@@ -132,10 +132,3 @@ export const VercelInviteUserEmail = ({
 };
 
 export default VercelInviteUserEmail;
-/***
- 你是一名资深的前端开发工程师，根据我提供的内容，完成一下的任务：
- 1. 根据我提供的css属性，帮我转换成tailwindcss属性
- 
- 准备好了，请说好的
- 
- */
